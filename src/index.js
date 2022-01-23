@@ -4,7 +4,7 @@ import './index.css';
 
 ReactDOM.render(
   <Game />,
-  document.getElementById('rrot')
+  document.getElementById('root')
 );
 
 function Square(props) {
